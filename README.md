@@ -1,4 +1,4 @@
-# 7D2D-Admin-Skill-Points-Mod
+# 7D2D-Rev978-Admin-Skill-Points-Mod
 A fan update for 7 days to die mod Admin Skill Points orginally created by rev678
 
 All Credit and rights belong to REV678, the orginal mod author, this is a fan update to allow the mod to be used in the current version of 7 Days 2 Die (1.2b27) as of 01/13/2025
