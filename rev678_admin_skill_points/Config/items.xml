@@ -1,0 +1,81 @@
+<rev678_admin_skill_points>
+
+<!-- START -->
+
+	<append xpath="/items" >
+
+		<item name="Admin Points 1">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints1"/>
+			</property>
+		</item>
+
+		<item name="Admin Points 10">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints10"/>
+			</property>
+		</item>
+
+		<item name="Admin Points 25">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints25"/>
+			</property>
+		</item>
+
+		<item name="Admin Points 50">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints50"/>
+			</property>
+		</item>
+
+		<item name="Admin Points 100">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints100"/>
+			</property>
+		</item>
+
+		<item name="Admin Points 250">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints250"/>
+			</property>
+		</item>
+
+		<item name="Admin Points 279">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="DescriptionKey" value="qc_AnimalGroupDesc"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="Stacknumber" value="1"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="adminpoints279"/>
+			</property>
+		</item>
+
+	</append>
+
+<!-- END -->
+
+</rev678_admin_skill_points>

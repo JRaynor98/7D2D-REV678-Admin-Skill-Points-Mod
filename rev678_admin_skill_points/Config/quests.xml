@@ -1,0 +1,95 @@
+<rev678_admin_skill_points>
+
+<!-- START -->
+
+	<append xpath="/quests" >
+
+	<quest id="adminpoints1">
+		<property name="name_key" value="Admin Points 1" />
+		<property name="subtitle_key" value="Admin Points 1" />
+		<property name="description_key" value="Gave myself 1 skill point." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 1 skill point." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="1" />
+	</quest>
+
+	<quest id="adminpoints10">
+		<property name="name_key" value="Admin Points 10" />
+		<property name="subtitle_key" value="Admin Points 10" />
+		<property name="description_key" value="Gave myself 10 skill points." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 10 skill points." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="10" />
+	</quest>
+
+	<quest id="adminpoints25">
+		<property name="name_key" value="Admin Points 25" />
+		<property name="subtitle_key" value="Admin Points 25" />
+		<property name="description_key" value="Gave myself 25 skill points." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 25 skill points." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="25" />
+	</quest>
+
+	<quest id="adminpoints50">
+		<property name="name_key" value="Admin Points 50" />
+		<property name="subtitle_key" value="Admin Points 50" />
+		<property name="description_key" value="Gave myself 50 skill points." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 50 skill points." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="50" />
+	</quest>
+
+	<quest id="adminpoints100">
+		<property name="name_key" value="Admin Points 100" />
+		<property name="subtitle_key" value="Admin Points 100" />
+		<property name="description_key" value="Gave myself 100 skill points." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 100 skill points." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="100" />
+	</quest>
+
+	<quest id="adminpoints250">
+		<property name="name_key" value="Admin Points 250" />
+		<property name="subtitle_key" value="Admin Points 250" />
+		<property name="description_key" value="Gave myself 250 skill points." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 250 skill points." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="250" />
+	</quest>
+
+	<quest id="adminpoints279">
+		<property name="name_key" value="Admin Points 279" />
+		<property name="subtitle_key" value="Admin Points 279" />
+		<property name="description_key" value="Gave myself 279 skill points." />
+		<property name="icon" value="ui_game_symbol_knife" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Give yourself 279 skill points." />
+		<property name="difficulty" value="easy" />
+		<reward type="SkillPoints" value="279" />
+	</quest>
+
+	</append>
+
+<!-- END -->
+
+</rev678_admin_skill_points>
